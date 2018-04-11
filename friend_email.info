@@ -1,0 +1,6 @@
+name = Friend Email 
+description = Friend Email
+core = 7.x
+package = Friend
+dependencies[] = friend
+files[] = friend_email.module
